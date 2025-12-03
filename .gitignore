@@ -24,7 +24,6 @@ yarn-error.log*
 
 # Capacitor
 /ios
-/android
 /electron
 
 # Ionic
