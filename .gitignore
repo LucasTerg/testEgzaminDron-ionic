@@ -39,3 +39,6 @@ apk/
 .vscode
 *.swp
 *.swo
+
+# Git Switch Script
+git-switch.sh
